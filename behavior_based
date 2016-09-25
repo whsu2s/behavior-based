@@ -1,0 +1,3 @@
+A primative behavior is composed of a control system and a trigger.
+* servo behavior: respond immediately to changes in sensory inputs
+* ballistic behavior: followed a predefined path 
